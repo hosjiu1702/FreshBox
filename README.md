@@ -1,2 +1,2 @@
 # FreshBox
-code for project
+This is my own source code for my project
